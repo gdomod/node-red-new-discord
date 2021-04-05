@@ -8,7 +8,7 @@ Though node-red-contrib-discord is production ready for small bots, it's a new p
 
 Run the following command in `~/.node-red`:
 
-    npm install node-red-contrib-discord
+    npm install node-red-new-discord
 
 # Nodes
 
