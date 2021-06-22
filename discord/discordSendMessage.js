@@ -16,7 +16,7 @@ module.exports = function(RED) {
                     }
                 }
                 if (channel) {
-                    var channelInstance = bot.channels.get(channel);
+                    var channelInstance = bot.channels.cache.get(channel);
                     if (channelInstance) {
 
                         let attachment = null;
